@@ -1,0 +1,7 @@
+flask
+numpy
+pandas
+opencv-python
+tensorflow
+transformers
+librosa
